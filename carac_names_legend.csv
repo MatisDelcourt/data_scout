@@ -1,0 +1,112 @@
+SuccDef, Actions défensives réussies par 90 min
+DefDuels, Pourcentage de duels défensifs gagnés
+AerWon, Pourcentage de duels aériens gagnés
+Tkl, Tacles par 90 min
+Blk, Tirs bloqués par 90 min
+Int, Interceptions par 90 min
+Prog, Passes progressives par 90 min
+Through, Passes à travers la défense par 90 min
+Lg, Passes longues par 90 min
+Length, Distance moyenne des passes longues (m)
+Third, Passes dans le dernier tiers par 90 min
+SuccOff, Actions offensives réussies par 90 min
+xG, xG par 90 min
+Crosses, Centres par 90 min
+Drib, Dribbles par 90 min
+TouchesBox, Ballons touchés dans la surface adverse par 90 min
+Run, Courses vers l'avant par 90 min
+Passes, Pourcentage de passes réussies
+xA, xA par 90 min
+ShAst, Passes amenant à un tir par 90 min
+KP, Passes clés par 90 min
+PenPasses, Passes dans la surface adverse par 90 min
+Shots, Tirs par 90 min
+Gls, Buts par 90 min
+HeadGls, Buts de la tête par 90 min
+GoalConv, Pourcentage de conversion de but
+Ast, Passes décisives par 90 min
+OffDuels, Duels offensifs par 90 min
+OffWon, Pourcentage de duels offensifs réussis 
+Acc, Accélérations par 90 min
+Diff, Différentiel xG-Buts par 90 min
+TklPAdj, Tacles ajustés à la possession
+IntPAdj, Interceptions ajustés à la possession
+npG, Buts hors penalty
+Shots, Tirs
+ShCad%, Pourcentage de tirs cadrés
+Recept, Passes réceptionnées
+SuccDef, Actions défensives réussies par 90 min
+DefDuels, Pourcentage de duels défensifs gagnés
+AerWon, Pourcentage de duels aériens gagnés
+Tkl, Tacles par 90 min
+Blk, Tirs bloqués par 90 min
+Int, Interceptions par 90 min
+Prog, Passes progressives par 90 min
+Through, Passes à travers la défense par 90 min
+Lg, Passes longues par 90 min
+Length, Distance moyenne des passes longues (m)
+Third, Passes dans le dernier tiers par 90 min
+SuccOff, Actions offensives réussies par 90 min
+xG, xG par 90 min
+Crosses, Centres par 90 min
+Drib, Dribbles par 90 min
+TouchesBox, Ballons touchés dans la surface adverse par 90 min
+Run, Courses vers l'avant par 90 min
+Passes, Pourcentage de passes réussies
+xA, xA par 90 min
+ShAst, Passes amenant à un tir par 90 min
+KP, Passes clés par 90 min
+PenPasses, Passes dans la surface adverse par 90 min
+Shots, Tirs par 90 min
+Passes%, Pourcentage de passes réussies
+LatPasses, Passes latérales par 90 min
+LatPasses%, Pourcentage de passes latérales réussies
+LongPasses, Passes longues par 90 min
+LongPasses%, Pourcentage de passes longues réussies
+PassLenght, Longueur moyenne des passes
+LongPassLenght, Longueur moyenne des passes longues
+AerialDuel, Duels aériens par 90 min
+Save%, Pourcentage d'arrêts
+Prevented, Buts sauvés par 90 min
+Exits, Sorties par 90 min
+xGA, xG subis par 90 min
+Conceded, Buts concédés par 90 min
+Goals, Buts par 90 min
+Headers, Buts de la tête par 90 min
+Accelerations, Accélérations par 90 min
+DuelOff, Duels offensifs par 90 min
+Passes1/3, Passes dans tiers adverse par 90 min
+PassesBox, Passes vers la surface de réparation par 90 min
+Assists, Passes décisives par 90 min
+Passes par 90, Passes
+Passes précises%, % de passes réussies
+Passes avant par 90, Passes vers l'avant
+Passes longues par 90, Passes longues
+Longueur moyenne des passes longues, Longueur moyenne des passes longues
+Passes en avant précises%, % de passes vers l'avant réussies
+Passes arrière par 90, Passes arrière
+Passes arrière précises%, % de passes arrière réussies
+Passes latérales par 90, Passes latérales
+Passes latérales précises%, % de passes latérales réussies
+Passes courtes / moyennes par 90, Passes courtes / moyennes
+Passes courtes / moyennes précises%, % de passes courtes / moyennes réussies
+Passes longues par 90, Passes longues
+Longues passes précises%, % de longues passes réussies
+Passes dans tiers adverse par 90, Passes dans tiers adverse
+Passes dans tiers adverse précises%, % de passes dans tiers adverse réussies
+Passes vers la surface de réparation par 90, Passes vers la surface adverse
+Passes vers la surface de réparation précises%, % de passes vers la surface adverse
+Passes décisives avec tir par 90, Passes décisives avec tir
+Secondes passes décisives par 90, Secondes passes décisives
+Troisièmes passes décisives par 90, Troisièmes passes décisives
+Passes judicieuses par 90, Passes clés
+Passes pénétrantes par 90, Passes pénétrantes
+Passes progressives par 90,Passes progressives
+Passes réceptionnés par 90, Passes réceptionnés
+Courses progressives par 90, Courses progressives
+Accélérations par 90, Accélérations
+DefWons, Pourcentage de duels défensifs gagnés
+AerWons, Pourcentage de duels aériens gagnés
+DefDuel, Duels défensifs par 90 min
+AerDuel, Duels aériens par 90 min
+PreAst, Passes précédant une passe décisive par 90 min

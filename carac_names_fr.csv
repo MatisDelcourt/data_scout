@@ -1,0 +1,99 @@
+SuccDef, Actions défensives réussies
+DefDuels, Pourcentage de duels défensifs gagnés
+AerWon, Pourcentage de duels aériens gagnés
+Tkl, Tacles glissés
+Blk, Tirs bloqués
+Int, Interceptions
+Prog, Passes progressives
+Lg, Passes longues
+Length, Distance moyenne des passes longues (m)
+Third, Passes dans le dernier tiers
+SuccOff, Actions offensives réussies
+xG, xG
+Crosses, Centres
+Drib, Dribbles
+PenAreaTouches, Ballons touchés dans la surface
+Run, Courses vers l'avant
+Passes, Pourcentage de passes réussies
+xA, xA
+ShAst, Passes amenant à un tir
+KP, Passes clés
+PenPasses, Passes dans la surface adverse
+Shots, Tirs
+Gls, Buts
+HeadGls, Buts de la tête
+GoalConv, Pourcentage de conversion de but
+Ast, Passes décisives
+OffDuels, Duels offensifs
+OffWon, Pourcentage de duels offensifs réussis 
+Acc, Accélérations
+Diff, Différentiel xG-Buts
+AccPasses, Pourcentage de passes réussies
+LgPass, Passes longues
+AerWons, Pourcentage de duels aériens gagnés
+DefWons, Pourcentage de duels défensifs gagnés
+Through, Passes pénétrantes
+Lg%, Pourcentage de passes longues réussies
+Duel%, Pourcentage de duels réussis
+TklPAdj, Tacles glissés
+IntPAdj, Interceptions
+Cross, Centres
+npG, Buts hors penalty
+Shots, Tirs
+ShCad%, Pourcentage de tirs cadrés
+Recept, Passes réceptionnées
+Head, Buts de la tête
+Forward, Passes avant
+DS, Actions décisives
+PreAst, Passes précédant une passe décisive
+TouchBox, Touches de balle dans la surface
+Fouled, Fautes subies
+BoxPasses, Passes vers la surface
+GA, Buts concédés 
+xGA, xG contre 
+ButsEvites, Buts évités 
+TirsContre, Tirs subis
+CS, Clean Sheet
+Save, % d'arrêts
+Sorties, Sorties réussies
+AerDuels, Duels aériens 
+Tkl+Int, Tacles & Interceptions
+Pass, Passes
+Lateral, Passes latérales
+Taux, Taux de conversion but/tir
+Smart, Passes intelligentes
+Foul, Fautes commises
+Yellow, Cartons jaunes
+Red, Cartons rouges
+Forward%, % de réussite passes avant
+Back, Passes arrière
+Back%, % de réussite passes arrière
+Lateral%, % de réussite passes latérales
+Short, Passes courtes
+Short%, % de réussite passes courtes
+LgPass%, % de réussite passes longues
+Longueur, Longueur des passes
+Longueur2, Longueur des passes longues
+3Ast, 3ème passes décisives
+Smart%, % de réussite passes intelligentes
+Third%, % de réussite passes dans le dernier tiers
+BoxPasses%, % de réussite passes surface
+Through%, % de réussite passes pénétrantes
+Deep, Réalisations en profondeur
+Deep2, Centres en profondeur
+Prog%, % de réussite passes progressives
+Drib%, % de réussite dribbles
+Cross%, % de réussite centres
+LeftCross, Centres flanc gauche
+RightCross, Centres flanc droit
+RightCross%, % de réussite centre droit
+LeftCross%, % de réussite centre gauche
+BoxCross, centres surface
+BoxCross%, % de réussite centre surface
+Goals, Buts
+OffDuel, Duels offensifs
+Off%, % de réussite duels offensifs
+LgRecept, Passes longues réceptionnées
+xDS, Actions décisives attendues
+DiffA, Différentiel xA-Assists
+DiffB, Différentiel xG-Buts
